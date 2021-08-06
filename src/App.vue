@@ -5,6 +5,9 @@
     <div>
       こんにちは
     </div>
+    <div>
+      こんばんは
+    </div>
   </div>
 </template>
 
