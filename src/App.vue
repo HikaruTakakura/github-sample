@@ -6,7 +6,7 @@
       こんにちは
     </div>
     <div>
-      こんばんは
+      ヒカキン
     </div>
   </div>
 </template>
